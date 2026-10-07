@@ -1,0 +1,14 @@
+.mon-element{
+    display: none;
+}
+span{
+    display: block;
+}
+.cache{
+    display: none;
+}
+.citation-bloc{
+    display: block;
+    margin-top: 20px;
+    color: gray;
+}
