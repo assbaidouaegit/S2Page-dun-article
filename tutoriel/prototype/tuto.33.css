@@ -4,39 +4,51 @@ body {
     background: #ffe2f2;
     font-family: Arial, sans-serif;
 }
-
 header {
     padding: 50px 20px;
     background: #f9afc8;
     text-align: center;
 }
-
 h1 {
     font-size: 40px;
 }
-
 div {
     background: white;
     margin: 30px;
     padding: 30px;
     border-radius: 20px;
 }
-
 h2 {
     color: #8e5270;
     margin-left: 420px;
 }
-
 h3 {
     color: #a86b86;
 }
-
 img {
     width:50%;
     border-radius:15px;
     margin-left: 250px;
 }
-
 li {
     margin-bottom: 10px;
+}
+body{
+    color: #8e5270;
+    margin: 0;
+    background: #ffe2f2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background: #ffe2f2;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+font-size: 40px;
+}
+div{
+    background: #ffe2f2;
+    padding: ;
+    
 }
